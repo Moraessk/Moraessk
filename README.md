@@ -26,9 +26,28 @@
 <h3>Linguagens:</h3>
 <br>
 <p>- Python / HTML basicos.🐍</p>
-<br>
-<br>
 <p>- C++ intermediario (Programação Competitiva). ©️➕➕</p>
+
+<br>
+<br>
+<h3>Técnicas de Programação (C++):</h3>
+<br>
+<p>- Percorrer Matrizes (unidimensionais e bidimensonais) usando Range-Based For.</p>
+<br>
+<p>- Manipulações de strings por meio da transformação String em vector char</p>
+<br>
+<p>- STL intermediario/avançado inicial</p>
+<br>
+<p>- Manipulação de vetores (Ordenação, queues, stacks, priority_queues...)</p>
+<br>
+<p>- Grafos e grid (Apenas BFS).</p>
+<br>
+<p>- Prefix Sum</p>
+<br>
+<p>- Sliding Window </p>
+
+
+
 
 <br>
 <br>
@@ -55,7 +74,7 @@ No momento, o projeto conta com as seguintes funções:<br>
 Em desenvolvimento:<br>
 <br>
 - Modo de Torneio ⏳<br><br>
-- Configurações Golbais ⏳<br><br>
+- Configurações Globais ⏳<br><br>
 <br>
 Falta desenvolver:<br><br>
 - Modo de Liga ❌
