@@ -42,8 +42,22 @@
       srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png"
+  >
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg"
+  >
+
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg"
+    width="70"
+  >
+</picture>
     />
   </picture>
 </p>
