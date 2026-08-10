@@ -66,15 +66,14 @@
 <br> 
 <p>- Meu primeiro projeto real, até meu commit nomeado "1a versão 1.5" ele estava totalmente caótico com funções como o gerarbracket (função que cria o chaveamento de um torneio no terminal com base em dados dos times) só funcionava por deus mesmo, após isso, recomecei do zero tentando deixar o código mais dificil de ser quebrado e também, reestruturando funções que não funcionavam perfeitamente como a de centralizar as "imagens" (centerstr).<br><br>
 No momento, o projeto conta com as seguintes funções:<br>
-- Team Search (Procura de times) ✅<br><br>
-- Simulação de partida Básica ✅<br><br>
+- Team Search (Procura de times) ✅
+- Simulação de partida Básica ✅
 <br><br>
 Em desenvolvimento:<br>
-<br>
-- Modo de Torneio ⏳<br><br>
-- Configurações Globais ⏳<br><br>
-<br>
-Falta desenvolver:<br><br>
+- Modo de Torneio ⏳
+- Configurações Globais ⏳<br>
+
+Falta desenvolver:<br>
 - Modo de Liga ❌
 <br></p>
 <br>
