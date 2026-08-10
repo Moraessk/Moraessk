@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <h1>print("Bem Vindo!")</h1>
+  print("Bem Vindo!")
 </p>
