@@ -15,3 +15,11 @@
   Dev C++/Python com foco atual em programação competitiva,<br>
   Estudante do instituto Federal de Ciência e Tecnologia de Mato-Grosso.
 </h3>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
