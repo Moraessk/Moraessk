@@ -43,7 +43,12 @@
 <p>- Complexidade de algoritimos (Big-O)</p>
 <p>- Busca Binaria + Lower/upper-bound.</p>
 
-
+<h2>Beecrowd:</h2><br>
+<p>O Beecrowd é uma plataforma com diversos exercicios no estilo OBI, SBC, ICPC, IOI, etc. Eu uso-o como modo de treinar, as questões são organizadas por niveis e por categories, a categoria Iniciante trabalha principalmente com estruturas basicas e STL, tem a categoria grafos que contempla apenas grafos enquanto a categoria estruturas contempla grafos + simulação + organização de dados... ou seja, uma questão Iniciante de Nivel 5 pode ser equivalente a uma de grafo Nivel 1-2. </p>
+<p>
+  <br>
+  <a href="https://judge.beecrowd.com/pt/profile/1242903">ACESSE MEU BEECROWD AQUI!</a>
+</p>
 
 
 
