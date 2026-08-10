@@ -1,3 +1,4 @@
+<p align="center"> Meu readme!</p>
 <p align="center"> <!-- feito *parcialmente* com IA! Apenas a parte da cobrinha no fim. -->
   <img src="https://i.pinimg.com/originals/bf/71/2a/bf712a78360c0d7f85a7959549df12e7.gif" width="100%">
 </p>
@@ -22,25 +23,35 @@
 <h2>1⁰ Projeto:</h2>
 <br> 
 <p>- Meu primeiro projeto serviu apenas para testar como criar repositorios e aprender o git basico, comados como git add ., git commit --x, git status, git push, git log, etc...</p>
+<br>
+
+<br>
+
+<br>
 
 <h2>Jogo de Futebol de Terminal(V-1.5):</h2>
 <br> 
 <p>- Meu primeiro projeto real, até meu commit nomeado "1a versão 1.5" ele estava totalmente caótico com funções como o gerarbracket (função que cria o chaveamento de um torneio no terminal com base em dados dos times) só funcionava por deus mesmo, após isso, recomecei do zero tentando deixar o código mais dificil de ser quebrado e também, reestruturando funções que não funcionavam perfeitamente como a de centralizar as "imagens" (centerstr).<br><br>
 No momento, o projeto conta com as seguintes funções:<br>
-- Team Search (Procura de times) ✅<br>
-- Simulação de partida Básica ✅<br>
+- Team Search (Procura de times) ✅<br><br>
+- Simulação de partida Básica ✅<br><br>
+<br><br>
+Em desenvolvimento:<br>
 <br>
-Em desenvolvimento:
+- Modo de Torneio ⏳<br><br>
+- Configurações Golbais ⏳<br><br>
 <br>
-- Modo de Torneio ⏳<br>
-- Configurações Golbais ⏳<br>
-<br>
-Falta desenvolver:<br>
+Falta desenvolver:<br><br>
 - Modo de Liga ❌
 <br></p>
 <br>
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" width="70" style="margin: 0 15px;">
 
