@@ -1,16 +1,18 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/bf/71/2a/bf712a78360c0d7f85a7959549df12e7.gif" width="100%">
 </p>
-<h2 align="center">
+<h1 align="center">
   BEM VINDO!
-</h2>
+</h1>
 
 <br>
+<br>
 
-<h4 align="center">
-  Dev C++/Python com foco atual em programação competitiva,<br>
-  Estudante do instituto Federal de Ciência e Tecnologia de Mato-Grosso.
-</h4>
+<h3>
+  - Dev C++/Python com foco atual em programação competitiva e estudante do Instituto Federal de Ciência e Tecnologia de Mato-Grosso(IFMT),<br>
+  ensino fundamental completo no Serviço Social da Industria de Cuiabá (SESI Cuiabá)/Agrupamento de Escolas Leonardo Coimbra (Porto - Portugal).<br> 
+  
+</h3>
 
 <br>
 
