@@ -3,18 +3,15 @@
 </p>
 
 <h2 align="center">
-  print("Bem Vindo!")
+  BEM VINDO!
 </h2>
 
 <br>
-<br>
-<br>
-<br>
 
-<h3 align="center">
+<h4 align="center">
   Dev C++/Python com foco atual em programação competitiva,<br>
   Estudante do instituto Federal de Ciência e Tecnologia de Mato-Grosso.
-</h3>
+</h4>
 
 <br>
 
