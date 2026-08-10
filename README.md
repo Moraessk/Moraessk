@@ -9,8 +9,8 @@
 <br>
 
 <h4>
-    - Dev C++/Python com foco atual em programação competitiva e estudante do Instituto Federal de Ciência e Tecnologia de Mato-Grosso(IFMT);<br><br>
-    - ensino fundamental completo no Serviço Social da Industria de Cuiabá (SESI Cuiabá)/Agrupamento de Escolas Leonardo Coimbra (Porto - Portugal);<br> 
+    - Dev C++/Python com foco atual em programação competitiva e estudante do Instituto Federal de Ciência e Tecnologia de Mato-Grosso(IFMT)⬜🟩<br><br>
+    - ensino fundamental completo no Serviço Social da Industria de Cuiabá (SESI Cuiabá)/Agrupamento de Escolas Leonardo Coimbra (Porto - Portugal)🇧🇷🇵🇹;<br> 
   
 </h4>
 
