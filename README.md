@@ -26,11 +26,11 @@
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Moraessk/Moraessk/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Moraessk/Moraessk/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </p>
