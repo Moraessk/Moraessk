@@ -33,18 +33,16 @@
 <h3>Técnicas de Programação (C++):</h3>
 <br>
 <p>- Percorrer Matrizes (unidimensionais e bidimensonais) usando Range-Based For.</p>
-<br>
 <p>- Manipulações de strings por meio da transformação String em vector char</p>
-<br>
 <p>- STL intermediario/avançado inicial</p>
-<br>
-<p>- Manipulação de vetores (Ordenação, queues, stacks, priority_queues...)</p>
-<br>
+<p>- Set, Map, referencias, ponteiros e iteradores</p>
 <p>- Grafos e grid (Apenas BFS).</p>
-<br>
 <p>- Prefix Sum</p>
-<br>
 <p>- Sliding Window </p>
+<p>- Two Pointers </p>
+<p>- Complexidade de algoritimos (Big-O)</p>
+<p>- Busca Binaria + Lower/upper-bound.</p>
+
 
 
 
