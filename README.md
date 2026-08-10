@@ -55,7 +55,7 @@
 <br>
 <h2>1⁰ Projeto:</h2>
 <br> 
-<p>- Meu primeiro projeto serviu apenas para testar como criar repositorios e aprender o git basico, comados como git add ., git commit --x, git status, git push, git log, etc...</p>
+<p>- Meu primeiro projeto serviu apenas para testar como criar repositorios e aprender o git basico, comados como git add ., git commit -m, git status, git push, git log, etc...</p>
 <br>
 
 <br>
