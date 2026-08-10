@@ -17,8 +17,21 @@
     - ensino fundamental completo no Serviço Social da Industria de Cuiabá (SESI Cuiabá)/Agrupamento de Escolas Leonardo Coimbra (Cidade do Porto - Portugal)🇧🇷🇵🇹;<br> 
   <br>
   <br>
+  
 </p>
 
+<h2>Hablidades de Programação:</h2><br>
+<br>
+
+<h3>Linguagens:</h3>
+<br>
+<p>- Python / HTML basicos.🐍</p>
+<br>
+<br>
+<p>- C++ intermediario (Programação Competitiva). ©️➕➕</p>
+
+<br>
+<br>
 <br>
 
 <h1 align="center"> Meus Projetos </h1>
