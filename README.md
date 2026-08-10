@@ -5,3 +5,7 @@
 <h1 align="center">
   print("Bem Vindo!")
 </h1>
+
+<br>
+
+<h2>Dev C++/Python com foco atual em programação competitiva.</h2>
