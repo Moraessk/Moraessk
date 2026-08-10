@@ -8,5 +8,10 @@
 
 <br>
 <br>
+<br>
+<br>
 
-<h3 align="center">Dev C++/Python com foco atual em programação competitiva.</h3>
+<h3 align="center">
+  Dev C++/Python com foco atual em programação competitiva,<br>
+  Estudante do instituto Federal de Ciência e Tecnologia de Mato-Grosso.
+</h3>
