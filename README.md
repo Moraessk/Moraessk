@@ -9,7 +9,7 @@
 
 <br>
 <br>
-<h2> Sobre Mim:</h2>
+<h1 align="center"> Sobre Mim:</h1>
 <br>
 
 <p>
