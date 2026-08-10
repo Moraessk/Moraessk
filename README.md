@@ -13,7 +13,7 @@
 <br>
 
 <p>
-    - Dev C++/Python com foco atual em programação competitiva e estudante do Instituto Federal de Ciência e Tecnologia de Mato-Grosso(IFMT)⬜🟩<br><br>
+    - "Dev" C++/Python com foco atual em programação competitiva e estudante do Instituto Federal de Ciência e Tecnologia de Mato-Grosso(IFMT)⬜🟩<br><br>
     - ensino fundamental completo no Serviço Social da Industria de Cuiabá (SESI Cuiabá)/Agrupamento de Escolas Leonardo Coimbra (Cidade do Porto - Portugal)🇧🇷🇵🇹;<br> 
   <br>
   <br>
@@ -44,8 +44,8 @@
 <p>- Busca Binaria + Lower/upper-bound.</p>
 
 <h2>Beecrowd:</h2><br>
-<p>O Beecrowd é uma plataforma com diversos exercicios no estilo OBI, SBC, ICPC, IOI, etc. Eu uso-o como modo de treinar, as questões são organizadas por niveis e por categories, a categoria Iniciante trabalha principalmente com estruturas basicas e STL, tem a categoria grafos que contempla apenas grafos enquanto a categoria estruturas contempla grafos + simulação + organização de dados... ou seja, uma questão Iniciante de Nivel 5 pode ser equivalente a uma de grafo Nivel 1-2. </p>
-<p>
+<p>O Beecrowd é uma plataforma com diversos exercicios no estilo OBI, SBC, ICPC, IOI, etc. Se assemelha a outras plataformas como Codeforces ou Neps Academy, mas com 100% dos exercicios livres. Eu uso-o como modo de treinar, as questões são organizadas por niveis e por categories, a categoria Iniciante trabalha principalmente com estruturas basicas e STL, tem a categoria grafos que contempla apenas grafos enquanto a categoria estruturas contempla grafos + simulação + organização de dados... ou seja, uma questão Iniciante de Nivel 5 pode ser equivalente a uma de grafo Nivel 1-2. </p>
+<p align="center">
   <br>
   <a href="https://judge.beecrowd.com/pt/profile/1242903">ACESSE MEU BEECROWD AQUI!</a>
 </p>
