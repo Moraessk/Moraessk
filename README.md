@@ -9,4 +9,4 @@
 <br>
 <br>
 
-<h3 aling="center">Dev C++/Python com foco atual em programação competitiva.</h3>
+<h3 align="center">Dev C++/Python com foco atual em programação competitiva.</h3>
