@@ -7,5 +7,6 @@
 </h1>
 
 <br>
+<br>
 
-<h2>Dev C++/Python com foco atual em programação competitiva.</h2>
+<h3 aling="center">Dev C++/Python com foco atual em programação competitiva.</h3>
