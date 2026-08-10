@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> <!-- feito *parcialmente* com IA! -->
   <img src="https://i.pinimg.com/originals/bf/71/2a/bf712a78360c0d7f85a7959549df12e7.gif" width="100%">
 </p>
 <h1 align="center">
