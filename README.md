@@ -26,6 +26,15 @@
 <p>- C++ intermediario (Programação Competitiva). ©️➕➕</p>
 
 <br>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" width="70" style="margin: 0 15px;">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" width="70" style="margin: 0 15px;">
+
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="70" style="margin: 0 15px;">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" width="70" style="margin: 0 15px;">
+</p>
 <br>
 <h3>Técnicas de Programação (C++):</h3>
 <br>
@@ -86,13 +95,6 @@ Falta desenvolver:<br>
 <br>
 <br>
 <br>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" width="70" style="margin: 0 15px;">
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" width="70" style="margin: 0 15px;">
-
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="70" style="margin: 0 15px;">
-</p>
 
 <br>
 
