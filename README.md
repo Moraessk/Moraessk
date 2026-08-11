@@ -36,7 +36,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" width="70" style="margin: 0 15px;">
 </p>
 <br>
-<h3>Técnicas de Programação (C++):</h3>
+<h3>Técnicas de Programação:</h3>
+<br>
+<p>- GIT básico.</p>
+<br>
+<h4>(C++):</h4>
 <br>
 <p>- Percorrer Matrizes (unidimensionais e bidimensonais) usando Range-Based For.</p>
 <p>- Manipulações de strings por meio da transformação String em vector char</p>
