@@ -31,7 +31,7 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" width="70" style="margin: 0 15px;">
 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="70" style="margin: 0 15px;">
+  <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="70" style="margin: 0 15px;">
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" width="70" style="margin: 0 15px;">
 </p>
