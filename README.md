@@ -35,11 +35,11 @@ Meu perfil de programação competitiva:
 ### Estatísticas
 
 <p align="center">
-  <img src="./assets/beecrowd-stats.png" width="800">
+  <img src="https://imgur.com/a/6nsjslT" width="800">
 </p>
 
 <p align="center">
-  <img src="./assets/beecrowd-progress.png" width="800">
+  <img src="https://imgur.com/a/dZb4R3Z" width="800">
 </p>
 
 > Estatísticas e gráficos retirados do meu perfil no Beecrowd.
@@ -84,13 +84,13 @@ int main() {
 
 ## Projetos
 
-### CapiGol 2K26
+### BRS 2k26
 
 Simulador de partidas e torneios de futebol desenvolvido em C++.
 
 O projeto utiliza estruturas, `vector`, funções, geração de chaveamentos, simulação de partidas e organização modular do código.
 
-[Repository](https://github.com/SEU_USERNAME/CapiGol2k26-Version.1.0)
+[Repository](https://github.com/Moraessk/BRS26)
 
 ---
 
