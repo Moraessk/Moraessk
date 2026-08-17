@@ -1,128 +1,263 @@
-<p align="center"> Meu readme!</p>
-<p align="center"> <!-- feito *parcialmente* com IA! Apenas a parte da cobrinha no fim. -->
-  <img src="https://i.pinimg.com/originals/bf/71/2a/bf712a78360c0d7f85a7959549df12e7.gif" width="100%">
-</p>
-
-
-<br>
-<br>
-<h1 align="center"> Sobre Mim:</h1>
-<br>
-
-<p>
-    - "Dev" C++/Python com foco atual em programação competitiva e estudante do 1º ano do ensino médio do Instituto Federal de Ciência e Tecnologia de Mato-Grosso(IFMT)⬜🟩<br><br>
-    - ensino fundamental completo no Serviço Social da Industria de Cuiabá (SESI Cuiabá)/Agrupamento de Escolas Leonardo Coimbra (Cidade do Porto - Portugal)🇧🇷🇵🇹;<br> 
-  <br>
-  <br>
-  
-</p>
-
-<h2>Hablidades de Programação:</h2><br>
-<br>
-
-<h3>Linguagens:</h3>
-<br>
-<p>- Python / HTML basicos.🐍</p>
-<p>- C++ intermediario (Programação Competitiva). ©️➕➕</p>
-
-<br>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" width="70" style="margin: 0 15px;">
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" width="70" style="margin: 0 15px;">
-
-  <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="70" style="margin: 0 15px;">
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" width="70" style="margin: 0 15px;">
-</p>
-<br>
-<h3>Técnicas de Programação:</h3>
-<br>
-<p>- GIT básico.</p>
-<br>
-<h4>(C++):</h4>
-<br>
-<p>- Percorrer Matrizes (unidimensionais e bidimensonais) usando Range-Based For.</p>
-<p>- Manipulações de strings por meio da transformação String em vector char</p>
-<p>- STL intermediario/avançado inicial</p>
-<p>- Set, Map, referencias, ponteiros e iteradores</p>
-<p>- Grafos e grid (Apenas BFS).</p>
-<p>- Prefix Sum</p>
-<p>- Sliding Window </p>
-<p>- Two Pointers </p>
-<p>- Complexidade de algoritimos (Big-O)</p>
-<p>- Busca Binaria + Lower/upper-bound.</p>
-
-<h2>Beecrowd:</h2><br>
-<p>O Beecrowd é uma plataforma com diversos exercicios no estilo OBI, SBC, ICPC, IOI, etc. Se assemelha a outras plataformas como Codeforces ou Neps Academy, mas com 100% dos exercicios livres. Eu uso-o como modo de treinar, as questões são organizadas por niveis e por categories, a categoria Iniciante trabalha principalmente com estruturas basicas e STL, tem a categoria grafos que contempla apenas grafos enquanto a categoria estruturas contempla grafos + simulação + organização de dados... ou seja, uma questão Iniciante de Nivel 5 pode ser equivalente a uma de grafo Nivel 1-2. </p>
-<p align="center">
-  <br>
-  <a href="https://judge.beecrowd.com/pt/profile/1242903">ACESSE MEU BEECROWD AQUI!</a>
-</p>
-
-
-
-<br>
-<br>
-<br>
-
-<h1 align="center"> Meus Projetos </h1>
-<br>
-<h2>1⁰ Projeto:</h2>
-<br> 
-<p>- Meu primeiro projeto serviu apenas para testar como criar repositorios e aprender o git basico, comados como git add ., git commit -m, git status, git push, git log, etc...</p>
-<br>
-
-<br>
-
-<br>
-
-<h2>Jogo de Futebol de Terminal(V-1.5):</h2>
-<br> 
-<p>- Meu primeiro projeto real, até meu commit nomeado "1a versão 1.5" ele estava totalmente caótico com funções como o gerarbracket (função que cria o chaveamento de um torneio no terminal com base em dados dos times) só funcionava por deus mesmo, após isso, recomecei do zero tentando deixar o código mais dificil de ser quebrado e também, reestruturando funções que não funcionavam perfeitamente como a de centralizar as "imagens" (centerstr).<br><br>
-No momento, o projeto conta com as seguintes funções:<br>
-- Team Search (Procura de times) ✅<br>
-- Simulação de partida Básica ✅
-<br><br>
-Em desenvolvimento:<br>
-- Modo de Torneio ⏳<br>
-- Configurações Globais ⏳<br><br>
-
-Falta desenvolver:<br>
-- Modo de Liga ❌
-<br></p>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-
-
-
-
-
-
-
-
+# 👨‍💻 Davi Moraes
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Competitive+Programming;C%2B%2B+%7C+Algorithms+%7C+Problem+Solving;OBI+Competitor+%F0%9F%87%A7%F0%9F%87%B7;Building+logic+one+problem+at+a+time." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://judge.beecrowd.com/pt/profile/1242903">
+    <img src="https://img.shields.io/badge/beecrowd-1242903-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Competitive%20Programming-Active-111827?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 About Me
+
+🎓 Técnico em Informática — IFMT
+💻 Focado em **C++ e programação competitiva**
+🏆 Competidor da **OBI — Olimpíada Brasileira de Informática**
+🧩 Estudando algoritmos, estruturas de dados e resolução de problemas
+🚀 Meu principal objetivo: transformar lógica em código eficiente.
+
+> *"Não estou tentando apenas aprender a programar. Estou tentando aprender a pensar como um programador."*
+
+---
+
+## 🐝 My Beecrowd Journey
+
+Minha evolução em programação competitiva é registrada principalmente através do **beecrowd**, resolvendo problemas de diferentes níveis de dificuldade e treinando conceitos fundamentais de algoritmos.
+
+<p align="center">
+  <a href="https://judge.beecrowd.com/pt/profile/1242903">
+    <img src="https://img.shields.io/badge/BEECROWD-MY%20PROFILE-8B5CF6?style=for-the-badge" />
+  </a>
+</p>
+
+### 📊 Beecrowd Stats
+
+<p align="center">
+  <!-- Substitua pelos gráficos/prints oficiais do seu perfil -->
+  <img src="./assets/beecrowd-stats.png" width="850"/>
+</p>
+
+<p align="center">
+  <img src="./assets/beecrowd-progress.png" width="850"/>
+</p>
+
+> 📌 Os gráficos acima representam minha evolução no beecrowd e fazem parte do meu histórico de programação competitiva.
+
+---
+
+## 🏅 Competitive Programming
+
+### OBI
+
+Atualmente estou focado na preparação para a **OBI**, utilizando problemas de competições anteriores e plataformas como beecrowd e Neps Academy para treinamento.
+
+```text
+Problem Solving
+████████████████████████░░  90%
+
+C++
+████████████████████████░░  90%
+
+Algorithms
+██████████████████████░░░░  80%
+
+Data Structures
+████████████████████░░░░░░  75%
+
+Competitive Programming
+██████████████████████░░░░  85%
+```
+
+### 📚 Currently Studying
+
+* 🔹 Complexidade de algoritmos
+* 🔹 STL do C++
+* 🔹 Busca Binária
+* 🔹 Two Pointers / Sliding Window
+* 🔹 Greedy
+* 🔹 BFS
+* 🔹 Grid BFS
+* 🔹 Grafos
+* 🔹 Dijkstra
+* 🔹 Estruturas de dados
+* 🔹 Otimização de soluções
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,linux" />
+
+</p>
+
+### Main Language
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    cout << "Competitive Programming";
+}
+```
+
+**C++** é atualmente minha principal linguagem para programação competitiva.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### ⚽ CapiGol 2K26
+
+Projeto de simulação de partidas e torneios de futebol desenvolvido em C++.
+
+**Principais conceitos utilizados:**
+
+* Estruturas
+* `vector`
+* Algoritmos
+* Geração de chaveamentos
+* Simulação
+* Organização modular
+* Manipulação de dados
+* Lógica de torneios
+
+🔗 **Repository:** `CapiGol2k26-Version.1.0`
+
+---
+
+## 🧩 Problem Solving
+
+Uma das partes mais importantes da minha rotina é resolver problemas sem simplesmente procurar a solução.
+
+Meu processo geralmente segue:
+
+```text
+                    PROBLEMA
+                       │
+                       ▼
+                Entender o enunciado
+                       │
+                       ▼
+                 Criar exemplos
+                       │
+                       ▼
+                Encontrar padrão
+                       │
+                       ▼
+                Criar algoritmo
+                       │
+                       ▼
+             Analisar complexidade
+                       │
+                       ▼
+                    C++20
+                       │
+                       ▼
+                    SUBMIT
+                       │
+                 ┌─────┴─────┐
+                 ▼           ▼
+              ACCEPT       WRONG
+                 │           │
+                 ▼           ▼
+             Próximo     Debug + aprender
+```
+
+> Cada `WA`, `TLE` ou `RE` é uma oportunidade de entender algo que eu ainda não entendia.
+
+---
+
+## 🎯 Goals
+
+### 2026
+
+* [x] Aprender fundamentos de C++
+* [x] Começar programação competitiva
+* [x] Resolver problemas no beecrowd
+* [x] Participar da OBI
+* [x] Aprender BFS
+* [x] Começar estudos de grafos
+* [ ] Evoluir em algoritmos avançados
+* [ ] Melhorar minha performance em competições
+* [ ] Alcançar fases mais avançadas da OBI
+* [ ] Construir projetos cada vez maiores
+
+---
+
+## 📊 My Progress
+
+```text
+                THEN                         NOW
+
+Python  ────────────────►  C++
+
+Basic Logic ────────────►  Algorithms
+
+Simple Problems ────────►  Competitive Programming
+
+Learning Syntax ────────►  Thinking Algorithmically
+```
+
+Meu objetivo não é decorar algoritmos.
+
+É olhar para um problema e conseguir pensar:
+
+> **"Qual é a estrutura por trás disso?"**
+
+---
+
+## 🌎 Beyond Programming
+
+Também tenho interesse em continuar evoluindo academicamente e buscar oportunidades internacionais na área de tecnologia.
+
+Por enquanto, o foco é simples:
+
+**aprender → praticar → errar → entender → melhorar.**
+
+---
+
+## 📫 Find Me
+
+<p align="center">
+
+<a href="https://judge.beecrowd.com/pt/profile/1242903">
+<img src="https://img.shields.io/badge/beecrowd-Profile-8B5CF6?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/SEU_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <b>⚡ Keep coding. Keep solving. Keep improving.</b>
 </p>
