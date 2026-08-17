@@ -14,15 +14,15 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-🎓 Técnico em Informática — IFMT
-💻 Focado em **C++ e programação competitiva**
-🏆 Competidor da **OBI — Olimpíada Brasileira de Informática**
-🧩 Estudando algoritmos, estruturas de dados e resolução de problemas
-🚀 Meu principal objetivo: transformar lógica em código eficiente.
+ Técnico em Informática — IFMT
+ Focado em **C++ e programação competitiva**
+ Competidor da **OBI — Olimpíada Brasileira de Informática**
+ Estudando algoritmos, estruturas de dados e resolução de problemas
+ Meu principal objetivo: transformar lógica em código eficiente.
 
-> *"Não estou tentando apenas aprender a programar. Estou tentando aprender a pensar como um programador."*
+> *Não estou tentando apenas aprender a programar. Estou tentando aprender a pensar como um programador.*
 
 ---
 
