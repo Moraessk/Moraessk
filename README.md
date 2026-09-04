@@ -52,18 +52,18 @@ Pratico no **beecrowd**, na **Neps Academy** e em provas anteriores da **OBI**.
 <tr>
 <td align="center" width="50%">
 <br>
-<h3>📍 Fase Local</h3>
+<h3>Fase Local</h3>
 <h1>260<small>/300</small></h1>
 </td>
 <td align="center" width="50%">
 <br>
-<h3>🏛️ Fase Estadual</h3>
+<h3>Fase Estadual</h3>
 <h1>370<small>/400</small></h1>
 </td>
 </tr>
 </table>
 
-<h3>✅ Classificado para a etapa seguinte</h3>
+<h3>Classificado para a etapa nacional/h3>
 
 </div>
 
