@@ -74,7 +74,7 @@ Pratico no **beecrowd**, na **Neps Academy** e em provas anteriores da **OBI**.
 </div>
 
 <!-- ============ CAPIGOL PROJECT ============ -->
-<h2 align="center">⚽ Projeto: CapiGol 2K26</h2>
+<h2 align="center">Projeto: BRS 2K26</h2>
 
 <div align="center">
 
@@ -90,20 +90,20 @@ Pratico no **beecrowd**, na **Neps Academy** e em provas anteriores da **OBI**.
 
 ### O que o projeto envolve
 
-- 🏗️ **Estruturas de dados** com `vector`
-- ⚙️ **Algoritmos** de geração de chaveamentos
-- 🎮 **Simulação** de partidas e torneios
-- 📊 **Manipulação de dados** e resultados
+-  **Estruturas de dados** com `vector`
+-  **Algoritmos** de geração de chaveamentos
+-  **Simulação** de partidas e torneios
+-  **Manipulação de dados** e resultados
 
 </td>
 <td width="50%" valign="top">
 
 ### Como está organizado
 
-- 📦 **Organização modular**
-- 📄 Separação entre arquivos `.cpp` e `.h`
-- 🔧 Aplicação prática de C++
-- 🎯 Projeto próprio — não é apenas exercício
+-  **Organização modular**
+-  Separação entre arquivos `.cpp`
+-  Aplicação prática de C++
+-  Projeto próprio — não é apenas exercício
 
 </td>
 </tr>
@@ -111,12 +111,12 @@ Pratico no **beecrowd**, na **Neps Academy** e em provas anteriores da **OBI**.
 
 <div align="center">
 
-> O CapiGol 2K26 é uma aplicação prática de tudo que estudei em C++: estruturas de dados, algoritmos, modularização e manipulação de dados. Mostra que o aprendizado vai além da resolução de exercícios.
+> O BRS 2K26 é uma aplicação prática de tudo que estudei em C++: estruturas de dados, algoritmos, modularização e manipulação de dados.
 
 </div>
 
 <!-- ============ TECH STACK ============ -->
-<h2 align="center">🛠️ Tecnologias e Conhecimentos</h2>
+<h2 align="center">Tecnologias e Conhecimentos</h2>
 
 <table>
 <tr>
@@ -129,7 +129,7 @@ Pratico no **beecrowd**, na **Neps Academy** e em provas anteriores da **OBI**.
 </td>
 <td width="50%" valign="top">
 
-#### 🏅 Programação Competitiva
+####  Programação Competitiva
 
 - OBI 2026 — Classificado
 - beecrowd — [Perfil 1242903](https://judge.beecrowd.com/pt/profile/1242903)
@@ -141,7 +141,7 @@ Pratico no **beecrowd**, na **Neps Academy** e em provas anteriores da **OBI**.
 <tr>
 <td width="50%" valign="top">
 
-#### 📐 Algoritmos
+####  Algoritmos
 
 - Busca Binária
 - `lower_bound` e `upper_bound`
@@ -155,7 +155,7 @@ Pratico no **beecrowd**, na **Neps Academy** e em provas anteriores da **OBI**.
 </td>
 <td width="50%" valign="top">
 
-#### 🌳 Estruturas de Dados
+####  Estruturas de Dados
 
 - `vector`, `map`, `set`, `pair`
 - Iteradores e `auto`
@@ -182,12 +182,12 @@ Pratico no **beecrowd**, na **Neps Academy** e em provas anteriores da **OBI**.
 </td>
 <td width="50%" valign="top">
 
-#### 🎯 Projetos
+####   Projetos
 
-- **CapiGol 2K26** — Simulador de futebol em C++
-- Separação `.cpp` / `.h`
-- Estruturas de dados aplicadas
-- Geração de chaveamentos
+- **BRS2K26** — Simulador de futebol em C++
+- **Bpp** - C++ em português - **Cpp -> Brasil plus plus -> bpp**
+- Sistema escolar de Terminal - Uso Pratico de grafos para registro de alunos e vinculo com matérias
+- Gerador de chaveamentos no BRS.
 
 </td>
 </tr>
