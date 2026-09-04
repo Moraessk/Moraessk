@@ -63,7 +63,7 @@ Pratico no **beecrowd**, na **Neps Academy** e em provas anteriores da **OBI**.
 </tr>
 </table>
 
-<h3>Classificado para a etapa nacional/h3>
+<h3>Classificado para a etapa nacional</h3>
 
 </div>
 
